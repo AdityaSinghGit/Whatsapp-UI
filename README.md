@@ -4,9 +4,11 @@ Whatsapp UI is a static UI based mobile application which intends the clone only
 
 ![wui1_350x700](https://user-images.githubusercontent.com/73191264/111867884-f9930f00-899c-11eb-8e8a-c2aca21b1e0f.png)
 
-![wui2](https://user-images.githubusercontent.com/73191264/111867813-825d7b00-899c-11eb-8631-3d00ac0ab575.png)
+![wui2_350x700](https://user-images.githubusercontent.com/73191264/111867979-70c8a300-899d-11eb-9840-6964729797d5.png)
 
+![wui3_350x700](https://user-images.githubusercontent.com/73191264/111867981-74f4c080-899d-11eb-9cda-ee9629fbfea7.png)
 
+![wui4_350x700](https://user-images.githubusercontent.com/73191264/111867984-7b833800-899d-11eb-8f8d-d7fbc930a6c1.png)
 
 ## Getting Started
 
