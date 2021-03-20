@@ -1,6 +1,12 @@
-# whatsapp_clone
+# Whatsapp_UI
 
-A new Flutter project.
+Whatsapp UI is a static UI based mobile application which intends the clone only for unofficial purposes.
+
+![wui1](https://user-images.githubusercontent.com/73191264/111867812-7e315d80-899c-11eb-9127-e6c355582847.png)
+
+![wui2](https://user-images.githubusercontent.com/73191264/111867813-825d7b00-899c-11eb-8631-3d00ac0ab575.png)
+
+
 
 ## Getting Started
 
